@@ -1,8 +1,3 @@
-#To work with python3.11:
-
-git clone https://github.com/caizhengxin/python-libpcap.git
-sudo python setup.py install
-
 
 # PCredz
 
@@ -47,6 +42,10 @@ On a debian based OS bash:
 ```bash
 apt install python3-pip && sudo apt-get install libpcap-dev && pip3 install Cython && pip3 install python-libpcap
 ```
+#To work with python3.11:
+
+git clone https://github.com/caizhengxin/python-libpcap.git
+sudo python setup.py install
 
 ## Usage
  
